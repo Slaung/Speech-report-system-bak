@@ -16,7 +16,7 @@
 ### 1. 系統架構
 ![image](https://github.com/Slaung/Speech-report-system/assets/36063455/d93796b1-db49-4cb5-98b8-390a641e86bf)
 <p align="center">(系統架構圖)</p>
-![image](https://github.com/Slaung/Speech-report-system/assets/36063455/cf94dc32-8f7a-494e-9e6b-3ffcd68ab4aa)
+![image](https://github.com/Slaung/Speech-report-system/blob/main/%E7%B3%BB%E7%B5%B1%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 <p align="center">(系統程序流程圖)</p>
 
 ## 四. 結果
